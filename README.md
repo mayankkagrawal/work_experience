@@ -1,5 +1,4 @@
- 1. Organization: Linux World Informatics Pvt Ltd, Jaipur, Rajasthan (June 2019-
-July 2019)
+ 1. Organization: Linux World Informatics Pvt Ltd, Jaipur, Rajasthan (June 2019-July 2019)<br/>
 Project Title: Integration of Industry 4.0 Technologies using Ansible Automation.
 Job Title:- Trainee
 Brief Description:
